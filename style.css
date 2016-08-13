@@ -1,0 +1,30 @@
+* {
+  /*border: 1px solid pink;*/
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  line-height: 1.5;
+  font-size: 2em;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+a {
+  text-decoration: none;
+  color: #1e90ff;
+}
+
+a:hover {
+  font-weight: bold;
+}
+
+a:visited {
+  color: #9d85b5;
+}
+
+#content {
+}
